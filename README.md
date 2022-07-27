@@ -1,2 +1,2 @@
-# perolas_homer
+# Pérolas de Homer Simpson
 Demonstração do React App das aulas do bootcamp Impulso Javascript Evolution
