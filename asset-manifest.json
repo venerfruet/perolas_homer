@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/static/js/main.d71ee8a1.chunk.js",
-    "main.js.map": "/static/js/main.d71ee8a1.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.44f00cad.js",
-    "runtime-main.js.map": "/static/js/runtime-main.44f00cad.js.map",
-    "static/js/2.0eedee17.chunk.js": "/static/js/2.0eedee17.chunk.js",
-    "static/js/2.0eedee17.chunk.js.map": "/static/js/2.0eedee17.chunk.js.map",
-    "index.html": "/index.html",
-    "static/js/2.0eedee17.chunk.js.LICENSE.txt": "/static/js/2.0eedee17.chunk.js.LICENSE.txt",
-    "static/media/AkbarPlain.1b5f80e4.woff": "/static/media/AkbarPlain.1b5f80e4.woff",
-    "static/media/AkbarPlain.7f50f3e2.eot": "/static/media/AkbarPlain.7f50f3e2.eot",
-    "static/media/AkbarPlain.c9102620.woff2": "/static/media/AkbarPlain.c9102620.woff2",
-    "static/media/bg.1781bbd1.jpg": "/static/media/bg.1781bbd1.jpg",
-    "static/media/homer.32492859.png": "/static/media/homer.32492859.png",
-    "static/media/ohSure.b503f576.mp3": "/static/media/ohSure.b503f576.mp3"
+    "main.js": "/perolas_homer/static/js/main.d71ee8a1.chunk.js",
+    "main.js.map": "/perolas_homer/static/js/main.d71ee8a1.chunk.js.map",
+    "runtime-main.js": "/perolas_homer/static/js/runtime-main.44f00cad.js",
+    "runtime-main.js.map": "/perolas_homer/static/js/runtime-main.44f00cad.js.map",
+    "static/js/2.0eedee17.chunk.js": "/perolas_homer/static/js/2.0eedee17.chunk.js",
+    "static/js/2.0eedee17.chunk.js.map": "/perolas_homer/static/js/2.0eedee17.chunk.js.map",
+    "index.html": "/perolas_homer/index.html",
+    "static/js/2.0eedee17.chunk.js.LICENSE.txt": "/perolas_homer/static/js/2.0eedee17.chunk.js.LICENSE.txt",
+    "static/media/AkbarPlain.1b5f80e4.woff": "/perolas_homer/static/media/AkbarPlain.1b5f80e4.woff",
+    "static/media/AkbarPlain.7f50f3e2.eot": "/perolas_homer/static/media/AkbarPlain.7f50f3e2.eot",
+    "static/media/AkbarPlain.c9102620.woff2": "/perolas_homer/static/media/AkbarPlain.c9102620.woff2",
+    "static/media/bg.1781bbd1.jpg": "/perolas_homer/static/media/bg.1781bbd1.jpg",
+    "static/media/homer.32492859.png": "/perolas_homer/static/media/homer.32492859.png",
+    "static/media/ohSure.b503f576.mp3": "/perolas_homer/static/media/ohSure.b503f576.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.44f00cad.js",
-    "static/js/2.0eedee17.chunk.js",
-    "static/js/main.d71ee8a1.chunk.js"
+    "perolas_homerstatic/js/runtime-main.44f00cad.js",
+    "perolas_homerstatic/js/2.0eedee17.chunk.js",
+    "perolas_homerstatic/js/main.d71ee8a1.chunk.js"
   ]
 }
